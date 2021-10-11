@@ -28,6 +28,12 @@ All of the answers are personal answers and may be wrong. Please contribute if y
 
 ##
 
+**Q:** How can i learn English?
+
+**A:** There are bunch of ways to learn english here is how i made it: I learned the basics from school improved with games, voice chats and tv series.
+
+##
+
 Template:
 **Q:**
 
