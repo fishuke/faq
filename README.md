@@ -6,7 +6,8 @@ All of the answers are personal answers and may be wrong. Please contribute if y
 
 **Question:** I am into coding...
 
-**Answer:** Do not be into coding, start from somewhere, do not wait for something, pick a language and START! [Projects To Do](https://github.com/practical-tutorials/project-based-learning)
+**Answer:** Do not be into coding, start from somewhere, do not wait for something, pick a language and START! 
+See also: [Projects to do](https://github.com/practical-tutorials/project-based-learning)
 
 ##
 
