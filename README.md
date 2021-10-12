@@ -19,7 +19,8 @@ See also: [Projects to do](https://github.com/practical-tutorials/project-based-
 
 **Q:** I started programming how should i continue?
 
-**A:** Firstly you need to have a basic knowledge of what are you doing and what do you want to do. You can search for different areas and maybe you can find something more interesting. You can check https://roadmap.sh for roadmaps.
+**A:** Firstly you need to have a basic knowledge of what are you doing and what do you want to do. You can search for different areas and maybe you can find something more interesting. 
+See also: [Developer roadmaps](https://roadmap.sh)
 
 ##
 
