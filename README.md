@@ -2,7 +2,7 @@
 
 All of the answers are personal answers and may be wrong. Please contribute if you want to make any improvement.
 
-## FAQ
+### Coding Related Questions
 
 **Question:** I am into coding...\
 **Answer:** Do not be into coding, start from somewhere, do not wait for something, pick a language and START! \
@@ -23,6 +23,13 @@ See also: [Developer roadmaps](https://roadmap.sh)
 
 **Q:** Where can i find motivation?\
 **A:** There are a lot of motivation resources but the best is loving what you do. Imagine, i enjoy coding and they pay me to code. If you don't like staring at the computer for hours, coding may not be the right path for you.
+
+
+
+### Personal Questions
+
+**Q:** How old are you? & Do i need to graduate from university to become programmer?\
+**A:** I am 18 years old. No, you do not need to graduate from university but its a big plus. All the matter is improving yourself.
 
 ##
 
