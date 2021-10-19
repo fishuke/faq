@@ -23,7 +23,7 @@ See also: [Developer roadmaps](https://roadmap.sh)
 ##
 
 **Q:** Where can i find motivation?\
-**A:** There are a lot of motivation resources but the best is loving what you do. Imagine, i enjoy coding and they pay me to code. If you don't like staring at the computer for hours, coding may not be the right path for you.
+**A:** There are a lot of motivation resources but the best is loving what you do. Imagine, i enjoy coding and they pay me to code. If you don't like staring at the computer for hours, coding may not be the right path for you. \
 See also: [Just Do IT!](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
 
