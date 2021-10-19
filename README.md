@@ -28,7 +28,7 @@ See also: [Developer roadmaps](https://roadmap.sh)
 
 ### Personal Questions
 
-**Q:** How old are you? & Do i need to graduate from university to become programmer?\
+**Q:** How old are you? Do i need university to become programmer?\
 **A:** I am 18 years old. No, you do not need to graduate from university but its a big plus. All the matter is improving yourself.
 
 ##
