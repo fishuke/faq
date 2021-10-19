@@ -11,7 +11,8 @@ See also: [Projects to do](https://github.com/practical-tutorials/project-based-
 ##
 
 **Q:** Where should i start?\
-**A:** It is not matter but, html is a good starting point to understand how we give order to computer and it does whatever we say. You can also learn python or javascript for starting. (do not pick low level programming languages like assembly)
+**A:** It is not matter but, html is a good starting point to understand how we give order to computer and it does whatever we say. You can also learn python or javascript for starting. (do not pick low level programming languages like assembly) \
+See also: [W3schools](https://github.com/practical-tutorials/project-based-learning) (if you want to be a web developer)
 
 ##
 
