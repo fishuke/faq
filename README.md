@@ -31,12 +31,7 @@ See also: [Just Do IT!](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 ### Personal Questions
 
 **Q:** How old are you? Do i need university to become programmer?\
-**A:** I am 18 years old. No, you do not need to graduate from university but its a big plus. All the matter is improving yourself.
-
-##
-
-**Q:** How can i learn English?\
-**A:** There are bunch of ways to learn english here is how i made it: I learned the basics from school improved with games, voice chats and tv series.
+**A:** I am 19 years old. No, you do not need to graduate from university but its a big plus. All the matter is improving yourself.
 
 ##
 
